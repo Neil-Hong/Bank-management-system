@@ -769,7 +769,7 @@ namespace Ass1
                 mailMessage.Subject = "Bank System Auto Email";
                 mailMessage.IsBodyHtml = true;
                 SmtpClient MySmtp = new SmtpClient("smtp.gmail.com", 587);
-                MySmtp.Credentials = new System.Net.NetworkCredential("memoriaa94", "Penguin-94");
+                MySmtp.Credentials = new System.Net.NetworkCredential("yourAccountName", "yourPassWord");
                 MySmtp.EnableSsl = true;
                 MySmtp.Send(mailMessage);
                 MySmtp = null;
