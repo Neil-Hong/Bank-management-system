@@ -1,0 +1,7 @@
+C:\Users\Memoriaa\Desktop\IT\.Net Application\Ass1\Ass1\Ass1\bin\Debug\Ass1.exe.config
+C:\Users\Memoriaa\Desktop\IT\.Net Application\Ass1\Ass1\Ass1\bin\Debug\Ass1.exe
+C:\Users\Memoriaa\Desktop\IT\.Net Application\Ass1\Ass1\Ass1\bin\Debug\Ass1.pdb
+C:\Users\Memoriaa\Desktop\IT\.Net Application\Ass1\Ass1\Ass1\obj\Debug\Ass1.csprojAssemblyReference.cache
+C:\Users\Memoriaa\Desktop\IT\.Net Application\Ass1\Ass1\Ass1\obj\Debug\Ass1.csproj.CoreCompileInputs.cache
+C:\Users\Memoriaa\Desktop\IT\.Net Application\Ass1\Ass1\Ass1\obj\Debug\Ass1.exe
+C:\Users\Memoriaa\Desktop\IT\.Net Application\Ass1\Ass1\Ass1\obj\Debug\Ass1.pdb
